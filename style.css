@@ -6,3 +6,12 @@
     border: none;
     border-radius: 10px;
 }
+
+.col-md-1 {
+    color: orange;
+}
+
+.h-100 {
+    border: none;
+    padding: 50px;
+}
